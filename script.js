@@ -441,6 +441,8 @@ Test data:
 § Data 2: [12, 5, -5, 0, 4]
 GOOD LUCK 😀
 */
+
+/* 
 // Data 1: [17, 21, 23]
 // Data 2: [12, 5, -5, 0, 4]
 
@@ -456,3 +458,4 @@ const printForecast = function (arr) {
 
 const tempsForecast = printForecast([17, 21, 23]);
 console.log(tempsForecast);
+ */
